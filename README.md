@@ -22,8 +22,8 @@ Print the output.
 
 ## PROGRAM:
 ```
-# Developed by: Akash A
-# Register Number: 212221230003
+# Developed by: Parshwanath
+# Register Number: 21002544
 
 import pandas as pd
 df = pd.read_csv('pandascsv.csv')
